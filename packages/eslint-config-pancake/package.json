@@ -1,12 +1,12 @@
 {
-  "name": "@pancakeswap-libs/eslint-config-pancake",
+  "name": "@ballena-libs/eslint-config-pancake",
   "version": "1.0.1",
-  "description": "Eslint config for PancakeSwap",
+  "description": "Eslint config for ballena",
   "main": "lib/index.js",
   "files": [
     "lib"
   ],
-  "repository": "https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/eslint-config-pancake",
+  "repository": "https://github.com/ballena-io/ballena-toolkit/tree/master/packages/eslint-config-pancake",
   "license": "MIT",
   "author": "RabbitDoge",
   "private": false,
