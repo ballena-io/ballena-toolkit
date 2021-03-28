@@ -131,17 +131,16 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/ballenaio",
-    // items: [
-    //   {
-    //     label: "English",
-    //     href: "https://twitter.com/ballenaio",
-    //   },
-    //   {
-    //     label: "Español",
-    //     href: "https://twitter.com/BallenaioE",
-    //   },
-    // ],
+    items: [
+      {
+        label: "English",
+        href: "https://twitter.com/ballenaio",
+      },
+      {
+        label: "Español",
+        href: "https://twitter.com/BallenaioE",
+      },
+    ],
   },
 ];
 
