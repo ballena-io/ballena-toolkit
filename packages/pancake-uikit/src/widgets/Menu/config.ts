@@ -131,6 +131,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
+    href: "",
     items: [
       {
         label: "English",
